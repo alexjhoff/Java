@@ -1,0 +1,7 @@
+groceries 100.00
+gasoline , 120.00
+groceries 50.00
+entertainment, 50.00, 20,00  
+books,	250.00
+gasoline  80.00
+gasoline  100.00
